@@ -7,7 +7,7 @@ We constructed the oil production shock series from scratch as derived in [1] an
 
 [3] https://sites.google.com/site/lkilian2019/research/data-sets
 
-The oil production and their counterfacturals
+The oil production of various OPEC countries and their counterfacturals
 ![counterfac](https://github.com/wonderjz/OPEC_oilshock/blob/main/img/counterfac_fivecountry.png)
 
 
